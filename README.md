@@ -73,16 +73,16 @@ A well-designed booking system reduces friction in the user journey, increases c
 - Search bar
 - User navigation
 - Responsive menu
-1. Property Card
+2. Property Card
 
 - Property image
 - Basic details (price, location, rating)
 - Favorite button
 - Responsive layout
-1. Footer
+3. Footer
 
 - Site links
 - Company information
 - Social media links
 - Copyright information
-Each component will be designed for reusability and consistency across the application.
+
